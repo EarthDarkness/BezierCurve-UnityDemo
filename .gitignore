@@ -1,0 +1,9 @@
+*.csproj
+*.sln
+
+.vs/
+Library/
+Runtimes/
+Temp/
+ProjectSettings/ProjectVersion.txt
+*.htm
